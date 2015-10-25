@@ -6,7 +6,7 @@
 + [X] Logistic Regression
 + [X] Multi-class Classification and Neural Networks
 + [X] Neural Network Learning
-+ [ ] Regularized Linear Regression and Bias/Variance
++ [X] Regularized Linear Regression and Bias/Variance
 + [ ] Support Vector Machines
 + [ ] K-Means Clustering and PCA
 + [ ] Anomaly Detection and Recommender Systems
