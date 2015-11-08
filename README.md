@@ -8,5 +8,5 @@
 + [X] Neural Network Learning
 + [X] Regularized Linear Regression and Bias/Variance
 + [X] Support Vector Machines
-+ [ ] K-Means Clustering and PCA
++ [X] K-Means Clustering and PCA
 + [ ] Anomaly Detection and Recommender Systems
