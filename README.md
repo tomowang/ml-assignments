@@ -9,4 +9,4 @@
 + [X] Regularized Linear Regression and Bias/Variance
 + [X] Support Vector Machines
 + [X] K-Means Clustering and PCA
-+ [ ] Anomaly Detection and Recommender Systems
++ [X] Anomaly Detection and Recommender Systems
